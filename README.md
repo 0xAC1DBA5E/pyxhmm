@@ -6,7 +6,8 @@ simple hidden markov model implemented in cython
 
 python setup.py install
 
->>> import pyxhmm
->>> pyxmhh.baum_welch(...)
+import pyxhmm
+
+pyxmhh.baum_welch(...)
 
 see tinkering.ipynb
